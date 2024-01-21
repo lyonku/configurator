@@ -1,0 +1,10 @@
+[
+  {
+    "value": "firstCheap",
+    "label": "Сначала недорогие"
+  },
+  {
+    "value": "firstDear",
+    "label": "Сначала дорогие"
+  }
+]

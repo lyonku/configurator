@@ -1,0 +1,39 @@
+[
+  { "title": "Монитор", "img": "/images/monitor.svg", "statusCheck": false },
+  {
+    "title": "Клавиатура",
+    "img": "/images/klava.svg",
+    "statusCheck": false
+  },
+  { "title": "Мышь", "img": "/images/mish.svg", "statusCheck": false },
+  {
+    "title": "Аудио система",
+    "img": "/images/audio.svg",
+    "statusCheck": false
+  },
+  {
+    "title": "Наушники",
+    "img": "",
+    "statusCheck": false
+  },
+  {
+    "title": "Микрофоны",
+    "img": "",
+    "statusCheck": false
+  },
+  {
+    "title": "Маршрутизатор Wi-Fi",
+    "img": "",
+    "statusCheck": false
+  },
+  {
+    "title": "Адаптер Wi-Fi",
+    "img": "/images/adapter.svg",
+    "statusCheck": false
+  },
+  {
+    "title": "Сетевой фильтр",
+    "img": "",
+    "statusCheck": false
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "name": "processor",
+    "title": "Процессор *",
+    "secondTitle": "Процессоры",
+    "img": "/images/prosesor.svg",
+    "id": "22",
+    "_attribute_group_id": ["780", "782", "784", "781"]
+  },
+  {
+    "name": "motherboard",
+    "title": "Материнская плата *",
+    "secondTitle": "Материнские платы",
+    "img": "/images/matplata.svg",
+    "id": "21",
+    "_attribute_group_id": ["27"]
+  },
+  {
+    "name": "hull",
+    "title": "Корпус *",
+    "img": "/images/korpus.svg",
+    "secondTitle": "Корпуса",
+    "id": "211",
+    "_attribute_group_id": ["645"]
+  },
+  {
+    "name": "videocard",
+    "title": "Видеокарта",
+    "secondTitle": "Видеокарты",
+    "img": "/images/videocarta.svg",
+    "id": "27",
+    "_attribute_group_id": ["314"]
+  },
+  {
+    "name": "processorCooling",
+    "title": "Охлаждение процессора *",
+    "img": "/images/oxlad.svg",
+    "secondTitle": "Охлаждение процессора",
+    "id": "251",
+    "_attribute_group_id": ["267"]
+  },
+  {
+    "name": "RAM",
+    "title": "Оперативная память *",
+    "img": "/images/operativnaya.svg",
+    "secondTitle": "Оперативная память",
+    "id": "26",
+    "_attribute_group_id": ["303"]
+  },
+  {
+    "name": "dataStorage",
+    "title": "Хранение данных *",
+    "secondTitle": "Хранение данных",
+    "img": "/images/disk.svg",
+    "id": "284",
+    "_attribute_group_id": ["353"]
+  },
+  {
+    "name": "powerSupply",
+    "title": "Блок питания *",
+    "secondTitle": "Блоки питания",
+    "img": "/images/blok.svg",
+    "id": "210",
+    "_attribute_group_id": ["623"]
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "value": "not",
+    "label": "Отсутствует"
+  },
+  {
+    "value": "byManufacturer",
+    "label": "По производителю"
+  },
+  {
+    "value": "yearRelease",
+    "label": "Год релиза"
+  }
+]
